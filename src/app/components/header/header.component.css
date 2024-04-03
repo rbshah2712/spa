@@ -1,0 +1,26 @@
+.navbar-nav > li{
+    padding-right:30px;
+  }
+
+  .navbar li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 70%;
+    color: #fff;
+  }
+  
+  .navbar ul li a {
+    position: relative;
+    z-index: 1;
+    padding: 15px;
+  }
+
+.span .logo-1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left:-5px;
+}
+
+.span.logo-2{
+    letter-spacing: 20px;
+}
